@@ -48,7 +48,7 @@ https://cirnochat.pmine.org/index-PC.html
 
 http://kogasatmselfpage.hppro1.hpnu.cn/cirno/index-PC.html
 
-##Copyright information##
+## Copyright information ##
 
 Attention: Background image by keta
 
