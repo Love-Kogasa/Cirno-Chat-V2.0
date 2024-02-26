@@ -9,8 +9,7 @@ Cirno-Chat程序通过学习对话来与用户进行交互。( 学习训练部�
 ##如何使用##
 
 4.克隆此仓库到本地计算机：
-git clone https://github.com/Love-Kogasa/Cirno-c
-Chat-V2.git
+git clone https://github.com/Love-Kogasa/Cirno-Chat-V2.git
 
 5.在浏览器中打开 index.html 文件：
 cd Cirno-Chat-V2
@@ -45,11 +44,11 @@ The Cirno Chat program interacts with users by learning conversations. (The lear
 
 4. Clone this repository to the local computer:
 
-Git clone https://github.com/Love-Kogasa/Cirno-chat.git
+Git clone https://github.com/Love-Kogasa/Cirno-chat-V2.git
 
 5. Open the index.xml file in the browser:
 
-CD Cirno chat
+CD Cirno-chat-V2
 
 6. Chat! Now!
 
@@ -65,7 +64,7 @@ http://kogasatmselfpage.hppro1.hpnu.cn/cirno/index-PC.html
 
 ##Copyright information##
 
-Attention: Background image author (keta)
+Attention: Background image by keta
 
 This work is a second creation of the Oriental Project
 
