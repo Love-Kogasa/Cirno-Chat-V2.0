@@ -52,7 +52,7 @@ http://kogasatmselfpage.hppro1.hpnu.cn/cirno/index-PC.html
 
 Attention: Background image by keta
 
-This work is a second creation of the Oriental Project
+This work is a second creation of the Touhou Project
 
 This work is completely open source
 
