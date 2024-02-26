@@ -1,0 +1,86 @@
+h1 {
+    font-size: 70px;
+    background-color: rgba(256,256,256,0.1);
+    backdrop-filter: blur(5px);
+    padding: 5px;
+    padding-left: 40px;
+    border-radius: 20px;
+    color: lightblue;
+}
+
+h1:before {
+    color: red;
+    content: '☯ ';
+}
+
+body {
+    background-color: #EFEFEF;
+    background-image: url("img/temp/bg.jpg");
+    padding: 20px;
+    background-size: 1300px auto;
+    background-position: -100px 0px;
+}
+
+text {
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+list {
+    padding-left: 20px;
+}
+
+h2 {
+    font-size: 60px;
+    padding: 20px;
+}
+
+info {
+    padding: 20px;
+    font-size: 40px;
+}
+
+content {
+    display: block;
+    background-color: rgba(256,256,256,0.1);
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 40px;
+    font-size: 40px;
+}
+
+em {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(245,0,256,0.2);
+    backdrop-filter: blur(5px);
+}
+
+yc {
+    background-color: #000;
+    transition: background-color 0.3s ease;
+}
+
+yc:hover {
+    background-color: rgba(0,0,0,0);
+}
+
+hr {
+    position: fixed;
+    z-index: 2;
+    top: -20px;
+    left: 0px;
+    width: 1000px;
+    height: 70px;
+    font-size: 40px;
+    background-color: rgba(256,256,256,0.1);
+    backdrop-filter: blur(5px);
+    display: block;
+    color: #000;
+}
